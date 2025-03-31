@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://miguelcastroe.github.io/vanishing-emails/sitemap.xml
